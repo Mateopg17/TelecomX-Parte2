@@ -66,7 +66,3 @@ A partir de los hallazgos, se sugieren las siguientes acciones para **Telecom X*
 * **Machine Learning:** Scikit-learn
 * **Visualización:** Matplotlib, Seaborn
 * **Entorno:** Google Colab
-
----
-
-> **Nota Final:** Este proyecto forma parte del programa de formación de **Alura** y demuestra la aplicación práctica de la Ciencia de Datos para resolver desafíos reales de negocio y optimización de ingresos.
