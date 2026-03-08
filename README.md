@@ -1,6 +1,7 @@
 # 📡 Telecom X Parte 2: Inteligencia Predictiva aplicada a la Retención de Clientes (Churn)
 
 **Consultor de Datos:** Mateo Pulgarin Garcia
+
 **Proyecto:** Desafío Telecom X – Fase de Modelado y Estrategia Comercial
 
 ---
